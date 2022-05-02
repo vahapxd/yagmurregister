@@ -1,0 +1,45 @@
+{
+    "BotSettings": {
+        "token": "OTcwNzI0MTA2MzkzNzU5Nzc0.YnAHRg.UvSL2A2pnZnmOYK4p5tbaRF7TfY",
+        "owner": "728931818182541392",
+        "prefix": ".",
+        "botStatus": "YAĞMUR <3",
+        "botVoiceChannelID": "965717034904203284"
+    },
+    "Roles": {
+        "BoyRole1": "965716422045073488",
+        "BoyRole2": "965716422045073488",
+        "GirlRole1": "965716417288765460",
+        "GirlRole2": "965716417288765460",
+        "Unregister": "965716559781838868",
+        "Registerer": "965716383985987685",
+        "TagRole": "",
+        "Suspicious": "970785984432189530",
+        "Jail": "XXXX"
+    },
+        "Colors": {
+            "Red": "ff0000",
+            "Magenta": "660099",
+            "Black": "000000",
+            "Gold": "ffd700",
+            "Pink": "ffcbdb",
+            "Green": "66ff00",
+            "Yellow": "ffff00"
+    },
+        "ServerSettings": {
+            "ServerName": "🦋 BUBBLES 👸🏻",
+            "ServerID": "961163891444953098",
+            "Tag": "◈",
+            "UnTag": "◈"
+    },
+        "Channels": {
+            "RegisterChat": "965716650735321098",
+            "TagLog": "970721035206918237",
+            "Rules": "965716675586564116",
+            "GeneralChat": "965716699926126602"
+        },
+        "Welcome": {
+            "WelcomeChat": "965716650735321098",
+            "WelcomeName": "• İsim | Yaş"
+        }
+}
